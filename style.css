@@ -1,0 +1,25 @@
+
+body {
+  font-family: 'Oswald', sans-serif;
+  font-size: 2rem;
+  font-weight: 400;
+  text-align: left;
+
+}
+
+.container {
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.blog-header {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.jumbotron {
+  background-image: url(sacha-t-sas-uHahR9MnVfw-unsplash.jpg);
+  background-size: cover;
+}
