@@ -1,7 +1,7 @@
 
 body {
   font-family: 'Oswald', sans-serif;
-  font-size: 2rem;
+  font-size: 1rem;
   font-weight: 400;
   text-align: left;
 
@@ -23,3 +23,7 @@ body {
   background-image: url(sacha-t-sas-uHahR9MnVfw-unsplash.jpg);
   background-size: cover;
 }
+.img-fluid {
+  max-width: 100%
+  height: auto;
+  } 
